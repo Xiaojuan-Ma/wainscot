@@ -1,0 +1,20 @@
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+tf_m_sct_scratch_op_num_steptime,raw_memories,humanwrized_memories,max_peak_memory,total_memory
+0.01274181842803955,"[23552, 35072, 25344, 65536]","['23KB', '34.25KB', '24.75KB', '64KB']",64KB,146KB
+0.01286684513092041,"[43008, 28160, 55808, 30720]","['42KB', '27.5KB', '54.5KB', '30KB']",54.5KB,154KB
+0.013196043968200684,"[39424, 31488, 51456, 37888]","['38.5KB', '30.75KB', '50.25KB', '37KB']",50.25KB,156.5KB
+0.013671541213989257,"[39424, 37632, 47104, 37888]","['38.5KB', '36.75KB', '46KB', '37KB']",46KB,158.25KB
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+tf_m_sct_scratch_group_op_num_pesto_steptime,raw_memories,humanwrized_memories,max_peak_memory,total_memory
+0.01288956642150879,"[35840, 35584, 24832, 65280]","['35KB', '34.75KB', '24.25KB', '63.75KB']",63.75KB,157.75KB
+0.01293534755706787,"[39680, 31488, 53760, 34816]","['38.75KB', '30.75KB', '52.5KB', '34KB']",52.5KB,156KB
+0.013039073944091796,"[39680, 31488, 51968, 37888]","['38.75KB', '30.75KB', '50.75KB', '37KB']",50.75KB,157.25KB
+steptimes,raw_memories,humanrized_memories,max_peak_memory,humanrized_total_memory
+tf_m_sct_scratch_group_op_num_pesto_steptime,raw_memories,humanwrized_memories,max_peak_memory,total_memory
+0.012972316741943359,"[39424, 32256, 24832, 65280]","['38.5KB', '31.5KB', '24.25KB', '63.75KB']",63.75KB,158KB
+0.012742509841918945,"[39424, 32768, 53504, 34816]","['38.5KB', '32KB', '52.25KB', '34KB']",52.25KB,156.75KB
+0.01272017478942871,"[39424, 32256, 51456, 37888]","['38.5KB', '31.5KB', '50.25KB', '37KB']",50.25KB,157.25KB
